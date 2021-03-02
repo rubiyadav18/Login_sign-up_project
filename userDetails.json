@@ -1,0 +1,48 @@
+{
+    "allUserDetails": [
+        {
+            "userName": "Rubi yadav",
+            "password": "Rubiyadav@"
+        },
+        {
+            "userName": "Rubi",
+            "password": "rubi123@"
+        },
+        {
+            "userName": "akshra",
+            "password": "akshra1@",
+            "Profile": {
+                "DOB": "18/10/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "rubi",
+            "password": "rubi123@",
+            "Profile": {
+                "DOB": "10/18/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "rubi",
+            "password": "ashish2@",
+            "Profile": {
+                "DOB": "18/10/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "ashish",
+            "password": "ashish1@",
+            "Profile": {
+                "DOB": "30/7/2002",
+                "gender": "male",
+                "hobby": "match"
+            }
+        }
+    ]
+}
